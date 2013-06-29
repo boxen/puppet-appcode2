@@ -1,5 +1,7 @@
 # AppCode2
 
+[![Build Status](https://travis-ci.org/boxen/puppet-appcode2.png?branch=master)](https://travis-ci.org/boxen/puppet-appcode2)
+
 ## Usage
 
 ```puppet
